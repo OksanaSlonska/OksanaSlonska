@@ -44,8 +44,8 @@ Passionate about creating intuitive, responsive web experiences using <b>React, 
 | :--- | :--- | :--- |
 | **[TravelTrucks](https://travel-trucks-lac-delta.vercel.app/)** <br> *(Personal Project)* | `Next.js` `Zustand` `TypeScript` | A camper rental platform featuring **server-side filtering**, persistent "Favorites" via Zustand, and a seamless booking system. |
 | **[ToolNext](https://project-group-6-fronted.vercel.app/)** <br> *(Team Project)* | `Next.js 15` `Node.js` `Swagger` | Full-stack equipment rental app. I developed the Mobile-First **Hero section** and implemented the **GET by ID API endpoint** with Swagger documentation. |
-| **[Mebleria](https://buievska.github.io/js-shop-group-10/)** <br> *(Team Project)* | `React` `Vite` `Swiper.js` | Furniture brand website. I was responsible for the **Reviews section**, implementing dynamic sliders and API data fetching. |
-| **[Watchcharm](https://alexsandr-kharchenko.github.io/project-group-11/)** <br> *(Team Project)* | `HTML5` `CSS3` `Vite` | Luxury watch store landing. I built the responsive **Header section** with semantic HTML. |
+| **[Mebleria](https://buievska.github.io/js-shop-group-10/)** <br> *(Team Project)* | `HTML5` `CSS3`  `JS(ES6+)` `Vite` `Swiper.js` | Furniture brand website. I was responsible for the **Reviews section**, implementing dynamic sliders and API data fetching. |
+| **[Watchcharm](https://alexsandr-kharchenko.github.io/project-group-11/)** <br> *(Team Project)* | `HTML5` `CSS3`  `JS(ES6+)` `Vite` | Luxury watch store landing. I built the responsive **Header section** with semantic HTML. |
 
 ---
 
