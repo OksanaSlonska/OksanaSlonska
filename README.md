@@ -3,8 +3,8 @@
   <h3>Junior Fullstack Developer</h3>
   
   <p>
-    I am a motivated developer with a background in teaching, which helps me explain complex concepts and collaborate effectively. 
-    Passionate about creating intuitive, responsive web experiences using <b>HTML, CSS, JavaScript, React, Next.js, and Node.js</b>.
+   I am a motivated developer with a background in teaching, which helps me explain complex concepts and collaborate effectively. 
+Passionate about creating intuitive, responsive web experiences using **HTML, CSS, JavaScript, React, Next.js, and Node.js**.
   </p>
 
  
