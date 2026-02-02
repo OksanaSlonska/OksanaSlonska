@@ -54,7 +54,7 @@
 
 ### 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-Elementary-blue?style=flat-square) 
+![English](https://img.shields.io/badge/English-Pre-Intermediate-blue?style=flat-square) 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 ![Russian](https://img.shields.io/badge/Russian-Native-lightgrey?style=flat-square)
 ![Bulgarian](https://img.shields.io/badge/Bulgarian-Native-green?style=flat-square)
@@ -64,6 +64,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OksanaSlonska&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Oksana's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OksanaSlonska&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OksanaSlonska&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OksanaSlonska&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Languages" />
 </div>
