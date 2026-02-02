@@ -54,7 +54,7 @@
 
 ### 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-Pre-Intermediate-blue?style=flat-square) 
+![English](https://img.shields.io/badge/English-Pre--Intermediate-blue?style=flat-square) 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 ![Russian](https://img.shields.io/badge/Russian-Native-lightgrey?style=flat-square)
 ![Bulgarian](https://img.shields.io/badge/Bulgarian-Native-green?style=flat-square)
