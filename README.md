@@ -8,17 +8,14 @@
   </p>
 
  
-  <a href="mailto:slonskayaoksana@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
- 
+
 </div>
 
 ---
 
 ### 🧰 Tech Stack
 
-<div align="center">
+<div align="left">
 
 **Frontend** <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
@@ -58,6 +55,12 @@
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 ![Russian](https://img.shields.io/badge/Russian-Native-lightgrey?style=flat-square)
 ![Bulgarian](https://img.shields.io/badge/Bulgarian-Native-green?style=flat-square)
+
+---
+
+### 📫 How to reach me:
+
+[Email](mailto:slonskayaoksana@gmail.com) | [Telegram](https://t.me/OksanaSlonska)
 
 ---
 
