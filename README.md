@@ -62,11 +62,4 @@ Passionate about creating intuitive, responsive web experiences using <b>React, 
 
 [Email](mailto:slonskayaoksana@gmail.com) | [Telegram](https://t.me/OksanaSlonska)
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OksanaSlonska&show_icons=true&theme=radical&v=1" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OksanaSlonska&layout=compact&theme=radical&v=1" alt="Languages" />
-</div>
